@@ -1,12 +1,38 @@
-# React + Vite
+# ☕ KodeKopi - WebSimple  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Kopi terbaik untuk para developer yang ingin fokus dan produktif.**  
+Website landing page untuk brand **KodeKopi**, kopi khusus developer modern yang membantu kamu tetap fokus, produktif, dan bahagia saat ngoding.  
 
-Currently, two official plugins are available:
+![Banner](https://via.placeholder.com/1000x250.png?text=KodeKopi+-+Stay+Focused+Code+Better)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Fitur Website
+- 🎯 **Landing page interaktif** dengan CTA *Coba Sekarang* & *Pelajari Lebih Lanjut*.  
+- ⚡ **Highlight produk**: fokus panjang, tanpa gelisah, aroma premium.  
+- 📦 **Pilihan paket berlangganan** (Starter, Pro Developer, Team).  
+- 🖼️ **Galeri produk & testimoni developer**.  
+- 📧 **Newsletter subscription** dengan tips coding mingguan & promo eksklusif.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Cara Menjalankan Project
+
+1. **Clone repository**
+   ```bash
+   git clone https://github.com/username/kodekopi-web.git
+   cd kodekopi-web
+2. **Install dependencies**
+   Pastikan sudah terinstall Node.js (versi terbaru direkomendasikan).
+   ```bash
+   npm install
+3. **Jalankan project dalam mode development**
+   ```bash
+   npm run dev
+4. **Buka di browser**
+   ```bash
+   http://localhost:3000
+   
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript (bisa dikembangkan dengan React/Next.js/Vite).
+Package Manager: npm
