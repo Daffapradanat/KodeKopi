@@ -3,8 +3,6 @@
 **Kopi terbaik untuk para developer yang ingin fokus dan produktif.**  
 Website landing page untuk brand **KodeKopi**, kopi khusus developer modern yang membantu kamu tetap fokus, produktif, dan bahagia saat ngoding.  
 
-![Banner](https://via.placeholder.com/1000x250.png?text=KodeKopi+-+Stay+Focused+Code+Better)
-
 ---
 
 ## ✨ Fitur Website
@@ -20,7 +18,7 @@ Website landing page untuk brand **KodeKopi**, kopi khusus developer modern yang
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/username/kodekopi-web.git
+   git clone https://github.com/Daffapradanat/kodekopi-web.git
    cd kodekopi-web
 2. **Install dependencies**
    Pastikan sudah terinstall Node.js (versi terbaru direkomendasikan).
